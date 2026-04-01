@@ -49,7 +49,7 @@ export default function Footer() {
       
       <div className="border-t border-slate-700/50 mt-12 pt-8">
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center text-sm text-slate-400">
-          <p>&copy; 2024 ZiyadBooks. All rights reserved.</p>
+          <p>&copy; 2026 ZiyadBooks. All rights reserved.</p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#" className="hover:text-white hover:translate-x-1 transition-all">Privasi</a>
             <a href="#" className="hover:text-white hover:translate-x-1 transition-all">Syarat Layanan</a>
